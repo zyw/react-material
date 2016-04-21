@@ -1,0 +1,14 @@
+html,body {
+	padding: 0;
+	margin: 0;
+}
+.nav-items {
+	list-style: none;
+	float: right;
+	margin-right: 50px;
+}
+.nav-items li {
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+}
